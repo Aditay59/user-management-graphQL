@@ -1,7 +1,7 @@
 # Ignore node_modules in both backend and frontend
 backend/node_modules/
 frontend/node_modules/
-
+backend/database/db.json
 # Ignore environment files
 *.env
 
@@ -10,3 +10,4 @@ frontend/node_modules/
 
 # Other files you may want to ignore
 .DS_Store
+.gitignore
