@@ -1,0 +1,35 @@
+.funny-404 {
+    text-align: center;
+    padding: 50px;
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .funny-404 h1 {
+    font-size: 100px;
+    margin: 0;
+    color: #ff6347;
+  }
+  
+  .funny-404 p {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  .funny-img {
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+  }
+  
+  .home-link {
+    color: #1ea7ab;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .home-link:hover {
+    text-decoration: underline;
+  }
+  

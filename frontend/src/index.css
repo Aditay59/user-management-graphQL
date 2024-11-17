@@ -1,0 +1,22 @@
+.custom-hover {
+    transition: all 0.3s ease-in-out;
+}
+
+.custom-hover:hover {
+    transform: translate(-8px, -5px);
+    box-shadow: 0 0 10px grey;
+}
+
+.custom-modal {
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(16, 16, 16, 0.6);
+    backdrop-filter: opacity(70%);
+}
